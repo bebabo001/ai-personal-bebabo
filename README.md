@@ -36,3 +36,16 @@
 - 每次提交只改一块相关内容，并在说明里写清改了哪一节。
 - 还没写完的部分用 Issues 跟踪，可加上 `todo`、`profile`、`update` 标签。
 - 需要查看或撤销改动时，用提交历史里的 diff 对照，再回退到先前版本。
+
+## 待补充
+
+下面这些 Issue 对应当前仍是示例的章节。换成确认过的内容后即可关闭。
+
+- [完善个人简介](https://github.com/bebabo001/ai-personal-bebabo/issues/1)
+- [补充工作与学习习惯](https://github.com/bebabo001/ai-personal-bebabo/issues/2)
+- [明确沟通风格偏好](https://github.com/bebabo001/ai-personal-bebabo/issues/3)
+- [补充技术栈](https://github.com/bebabo001/ai-personal-bebabo/issues/4)
+- [整理可公开的项目经验](https://github.com/bebabo001/ai-personal-bebabo/issues/5)
+- [写下长期目标](https://github.com/bebabo001/ai-personal-bebabo/issues/6)
+
+常用标签：`todo`（待办）、`profile`（档案正文）、`update`（修订已有内容）。

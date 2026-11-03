@@ -18,6 +18,6 @@
 
 ## 待办
 
-未完成的补充请开 Issue，并加上 `todo`，再按需要加上 `profile`（档案正文）或 `update`（修订已有内容）。
+未完成的补充请开 Issue，并加上 `todo`，再按需要加上 `profile`（档案正文）或 `update`（修订已有内容）。README 的「待补充」一节链着第一批章节 Issue。
 
-若已启用 GitHub Project「个人档案待办」，把 Issue 放进该看板即可；没有看板时，Issues 列表本身就够用。
+Issues 列表就是待办清单。若要看板，可由仓库所有者在 GitHub 新建 Project，名称用「个人档案待办」，再把这些 Issue 加进去。
