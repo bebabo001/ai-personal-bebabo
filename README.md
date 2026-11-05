@@ -8,7 +8,7 @@
 
 ## 个人简介与背景
 
-- 示例：用一两句话说明可以公开的身份与当前阶段（例如「正在学习软件开发的学生」）。请替换成本人确认过的表述。
+- AI爱好者，持续学习者，个人投资者
 
 ## 工作与学习习惯
 
@@ -41,7 +41,6 @@
 
 下面这些 Issue 对应当前仍是示例的章节。换成确认过的内容后即可关闭。
 
-- [完善个人简介](https://github.com/bebabo001/ai-personal-bebabo/issues/1)
 - [补充工作与学习习惯](https://github.com/bebabo001/ai-personal-bebabo/issues/2)
 - [明确沟通风格偏好](https://github.com/bebabo001/ai-personal-bebabo/issues/3)
 - [补充技术栈](https://github.com/bebabo001/ai-personal-bebabo/issues/4)
